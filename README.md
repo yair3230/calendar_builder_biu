@@ -7,5 +7,5 @@ To ensure this works, install python, and run on your computer
 
 ## How to
 1. Go to In-bar and download the schedule.
-   (https://i.postimg.cc/wB16hfjf/step1.png)
+   ![step 1](https://i.postimg.cc/wB16hfjf/step1.png)
 3. 
